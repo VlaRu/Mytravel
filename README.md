@@ -1,4 +1,4 @@
 # vlaru-JSFEPRESCHOOL2022Q2
-[TRAVEL](https://rolling-scopes-school.github.io/vlaru-JSFEPRESCHOOL2022Q2/travel)
+[TRAVEL](https://VlaRu.github.io/travel)
 
 Private repository for @vlaru
